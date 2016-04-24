@@ -1,4 +1,4 @@
-import { countNotXs, countXs, findPivot } from '../src/pivot'
+import { countNotXs, countXs, findPivot } from '../src/split'
 
 describe('#countXs', () => {
   it('returns the number of elements with same value inside array', () => {
